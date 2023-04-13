@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeTitle">24sp</dimen>
+
+    <dimen name="marginGeneral">24dp</dimen>
+    <dimen name="marginContainer">16dp</dimen>
+    <dimen name="marginTop">16dp</dimen>
+    <dimen name="marginBottom">8dp</dimen>
+    <dimen name="marginH">8dp</dimen>
+    <dimen name="marginW">16dp</dimen>
+</resources>

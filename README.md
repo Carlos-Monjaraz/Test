@@ -4,6 +4,6 @@
 Se consule una API con Retrofit, MVVM, Clean Architecture.
 
 ### Capturas de pantalla
-| Descripción | Estadísticas | Equipos |
+| Listado | Detalles | Detalles |
 | :------------: | :------------: | :------------: |
 | <img src="https://i.imgur.com/PlK9Imc.png" style="height: 80%; width:80%;"/>  | <img src="https://i.imgur.com/GGoSgcn.png" style="height: 80%; width:80%;"/>  | <img src="https://i.imgur.com/R7bKZrs.png" style="height: 80%; width:89%;"/>  |
